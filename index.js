@@ -1,3 +1,5 @@
-const sum = (120, 450);
+const sum = (fNum, sNum) => {
+  return fNum + sNum;
+};
 
 export default sum;
